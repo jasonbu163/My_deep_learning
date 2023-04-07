@@ -97,3 +97,6 @@ your brower should the proxy to follow the system proxy
 
 done!
 
+# Thanks
+
+Finally, thanks to my friend Jason for helping me with these operations.
